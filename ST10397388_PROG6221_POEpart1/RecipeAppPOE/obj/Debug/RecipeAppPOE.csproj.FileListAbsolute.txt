@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\bin\Debug\RecipeAppPOE.exe.config
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\bin\Debug\RecipeAppPOE.exe
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\bin\Debug\RecipeAppPOE.pdb
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\obj\Debug\RecipeAppPOE.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\obj\Debug\RecipeAppPOE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\obj\Debug\RecipeAppPOE.exe
+C:\Users\lab_services_student\source\repos\RecipeAppPOE\obj\Debug\RecipeAppPOE.pdb
